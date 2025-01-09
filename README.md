@@ -12,9 +12,11 @@ A simple, responsive web-based calculator built with HTML, CSS, and JavaScript f
 
 ### Installation
 
-Clone the repository:
+Clone the repository: 
 
+```bash
 git clone https://github.com/OtiliaNicola/calculator.git
+ ```
 
 Open the index.html file in your browser.
 
