@@ -1,8 +1,8 @@
-# Calculator
+#  Calculator
 
 A simple, responsive web-based calculator built with HTML, CSS, and JavaScript for basic arithmetic operations.
 
-### Features
+## ✨ Features
 
 - [x] Perform addition, subtraction, multiplication, and division.
 
@@ -10,7 +10,7 @@ A simple, responsive web-based calculator built with HTML, CSS, and JavaScript f
 
 - [x] Responsive design for all devices.
 
-### Installation
+## 🚀 Installation
 
 Clone the repository: 
 
@@ -20,7 +20,7 @@ git clone https://github.com/OtiliaNicola/calculator.git
 
 Open the index.html file in your browser.
 
-### Usage
+## Usage
 
 Input numbers and select operators (+, -, *, /).
 
@@ -28,7 +28,7 @@ Press = to calculate the result.
 
 Use C to clear.
 
-### Technologies Used
+## 🛠 Technologies Used
 
 <p>
    <!-- js -->
@@ -60,10 +60,7 @@ Use C to clear.
  </a>
 </p>
 
-### License
+## 📜 License
 
 This project is licensed under the MIT License.
 
-### Contact
-
-GitHub: @OtiliaNicola
